@@ -25,7 +25,6 @@ This repository serves as a compute-composable subnet, integrating various cloud
 
 This repository requires python3.8 or higher. To install, simply clone this repository and install the requirements. You are limited to one external IP per UID. There is automatic blacklisting in place if validators detect anomalous behavior. 
 
-
 ### Bittensor
 
 ```bash
